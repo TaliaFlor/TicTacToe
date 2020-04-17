@@ -1,0 +1,8 @@
+/* Add a background image */
+.root {
+	-fx-background-image: url("../images/tictactoe.png");
+	-fx-background-size: cover;
+	-fx-background-color: #ffffff;
+}
+
+
